@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Code-Case
 - 👀 I’m interested in development and ship stuff with real value
-- 🌱 I’m currently learning modern js frameworks
+- 🌱 I’m currently experimenting with microservices using js frameworks and component libraries
 - 💞️ I’m looking to collaborate on good products
 - 📫 How to reach me: via web
 
