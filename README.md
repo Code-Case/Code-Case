@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Code-Case
 - 👀 I’m interested in developing and shipping stuff wich brings real value to the user
 - 🌱 I’m currently experimenting with microservices using modern js frameworks and component libraries
-- 💞️ I’m looking to collaborate on good products in an agile enviroment
+- 💞️ I love to collaborate on good products in an agile enviroment
 - 📫 How to reach me: via web
 
 <!---
